@@ -9,6 +9,7 @@
 # git add
 
 - ghi vào lịch sử git
+- `git add .`: để đưa tất cả các file vào vùng chuẩn bị commit
 
 ```bash
 git add <path_file1> <path_file2>
@@ -28,3 +29,4 @@ git log
 # or
 git log --oneline
 ```
+# Edit
