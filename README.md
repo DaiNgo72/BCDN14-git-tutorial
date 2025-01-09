@@ -38,6 +38,12 @@ git push origin <ten_nhanh>
 ```bash
 git branch -v # kiểm tra xem thử đang ở nhánh nào
 ```
+
+# git clone
+- download source code về
+```bash
+git clone <duong_dan_source_code>
+```
 # Edit
 # Edit 2
 # Edit 3
