@@ -45,4 +45,6 @@ git branch -v # kiểm tra xem thử đang ở nhánh nào
 # Edit 5
 # Mai Dang Huy đã ở đây
 
+
+# test stash
 # Edit 7 - kiet
