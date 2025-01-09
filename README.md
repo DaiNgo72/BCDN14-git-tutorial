@@ -29,6 +29,15 @@ git log
 # or
 git log --oneline
 ```
+
+# git remote
+```bash
+git push origin <ten_nhanh>
+```
+
+```bash
+git branch -v # kiểm tra xem thử đang ở nhánh nào
+```
 # Edit
 # Edit 2
 # Edit 3
