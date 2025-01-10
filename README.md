@@ -68,3 +68,5 @@ git clone <duong_dan_source_code>
 # test stash
 
 # Edit 7 - kiet
+
+# Demo luc 20250110
