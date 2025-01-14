@@ -24,6 +24,7 @@ git commit -m"thong tin lich su"
 ```
 
 # Hiển thị lịch sử làm việc
+
 ```bash
 git log
 # or
@@ -31,6 +32,7 @@ git log --oneline
 ```
 
 # git remote
+
 ```bash
 git push origin <ten_nhanh>
 ```
@@ -38,8 +40,36 @@ git push origin <ten_nhanh>
 ```bash
 git branch -v # kiểm tra xem thử đang ở nhánh nào
 ```
+
+# git clone
+
 # Edit
+
 # Edit 2
+
 # Edit 3
+
 # Edit 4
+
 # Edit 5
+
+# git checkout
+
+## Kiểm tra nhánh đang ở hiện tại
+
+```bash
+git branch -v
+# or
+git branch
+```
+
+## vừa tạo nhánh + nhảy sang làm việc trên nhánh đó
+
+```bash
+git checkout -b <ten_nhanh> 
+```
+
+## Làm tính năng trang chủ
+```bash
+git checkout -b feat/home
+```
