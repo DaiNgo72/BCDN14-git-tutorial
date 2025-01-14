@@ -80,3 +80,15 @@ git checkout <ten_nhanh_muon_chuyen_sang>
 ```bash
 git checkout -b feat/home
 ```
+
+# git merge
+- Nhảy sang nhánh mà mình muốn merge code
+```bash
+git merge <ten_nhanh_muon_them_vao_nhanh_hien_tai>
+```
+
+## Merge nhánh feat/home và nhánh master
+```bash
+git checkout master
+git merge feat/home
+```
