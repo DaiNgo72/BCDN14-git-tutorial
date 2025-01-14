@@ -56,6 +56,7 @@ git clone <duong_dan_source_code>
 # Edit 3
 
 # Edit 4
+
 # Edit 5
 
 # Mai Dang Huy đã ở đây
@@ -99,18 +100,22 @@ git checkout -b feat/home
 ```
 
 # git merge
+
 - Nhảy sang nhánh mà mình muốn merge code
+
 ```bash
 git merge <ten_nhanh_muon_them_vao_nhanh_hien_tai>
 ```
 
 ## Merge nhánh feat/home và nhánh master
+
 ```bash
 git checkout master
 git merge feat/home
 ```
 
 # Pull nhánh master về và merge vào nhánh feat/home
+
 ```bash
 git pull origin master
 ```
