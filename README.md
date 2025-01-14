@@ -109,3 +109,8 @@ git merge <ten_nhanh_muon_them_vao_nhanh_hien_tai>
 git checkout master
 git merge feat/home
 ```
+
+# Pull nhánh master về và merge vào nhánh feat/home
+```bash
+git pull origin master
+```
