@@ -114,8 +114,8 @@ git checkout master
 git merge feat/home
 ```
 
-# 1 2 3 4
+# Pull nhánh master về và merge vào nhánh feat/home
 
-# 2 3 4 5
-
-# 3 4 5 6
+```bash
+git pull origin master
+```
