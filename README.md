@@ -63,13 +63,20 @@ git branch -v
 git branch
 ```
 
-## vừa tạo nhánh + nhảy sang làm việc trên nhánh đó
+## Vừa tạo nhánh + nhảy sang làm việc trên nhánh đó
 
 ```bash
 git checkout -b <ten_nhanh> 
 ```
 
+## Chuyển nhánh
+
+```bash
+git checkout <ten_nhanh_muon_chuyen_sang>
+```
+
 ## Làm tính năng trang chủ
+
 ```bash
 git checkout -b feat/home
 ```
