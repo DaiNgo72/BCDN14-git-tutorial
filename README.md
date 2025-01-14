@@ -56,6 +56,7 @@ git clone <duong_dan_source_code>
 # Edit 3
 
 # Edit 4
+
 # Edit 5
 
 # Mai Dang Huy đã ở đây
@@ -83,7 +84,7 @@ git branch
 ## Vừa tạo nhánh + nhảy sang làm việc trên nhánh đó
 
 ```bash
-git checkout -b <ten_nhanh> 
+git checkout -b <ten_nhanh>
 ```
 
 ## Chuyển nhánh
@@ -99,13 +100,22 @@ git checkout -b feat/home
 ```
 
 # git merge
+
 - Nhảy sang nhánh mà mình muốn merge code
+
 ```bash
 git merge <ten_nhanh_muon_them_vao_nhanh_hien_tai>
 ```
 
 ## Merge nhánh feat/home và nhánh master
+
 ```bash
 git checkout master
 git merge feat/home
 ```
+
+# 1 2 3 4
+
+# 2 3 4 5
+
+# 3 4 5 6
