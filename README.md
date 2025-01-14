@@ -43,6 +43,12 @@ git branch -v # kiểm tra xem thử đang ở nhánh nào
 
 # git clone
 
+- download source code về
+
+```bash
+git clone <duong_dan_source_code>
+```
+
 # Edit
 
 # Edit 2
@@ -50,8 +56,19 @@ git branch -v # kiểm tra xem thử đang ở nhánh nào
 # Edit 3
 
 # Edit 4
-
 # Edit 5
+
+# Mai Dang Huy đã ở đây
+
+# Edit 6
+
+# Mai Dang Huy da roi di
+
+# test stash
+
+# Edit 7 - kiet
+
+# Demo luc 20250110
 
 # git checkout
 
