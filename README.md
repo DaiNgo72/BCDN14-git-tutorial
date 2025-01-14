@@ -70,3 +70,7 @@ git clone <duong_dan_source_code>
 # Edit 7 - kiet
 
 # Demo luc 20250110
+
+# 1 2 3 4
+# 2 3 4 5
+# 3 4 5 6
